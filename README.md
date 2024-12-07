@@ -18,3 +18,7 @@ This repository contains the code for a project that enhances indoor localizatio
 
 - Chroma for vector database operations
   - chromadb                                 0.5.15
+ 
+#### Run
+- Run filter.py to do poi data filtering
+- Feed the filtered poi data to vector database for storage and retrieval
