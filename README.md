@@ -3,8 +3,11 @@ This repository contains the code for a project that enhances indoor localizatio
 
 #### Prerequisites
 Python 3.11.4
+
 Azure API Key for Azure OpenAI services (if using Azure services)
+
 dotenv for managing environment variables
+
 langchain library for building the RAG model
  - langchain                                0.3.4
  - langchain-chroma                         0.1.4
@@ -12,5 +15,6 @@ langchain library for building the RAG model
  - langchain-core                           0.3.12
  - langchain-openai                         0.2.3
  - langchain-text-splitters                 0.3.0
+
 Chroma for vector database operations
  - chromadb                                 0.5.15
